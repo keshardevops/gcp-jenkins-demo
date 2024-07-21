@@ -3,7 +3,7 @@ resources:
   type: storage.v1.bucket
   properties:
     storageClass: STANDARD
-- name: edureka-vm-deployment-mgr
+- name: edureka-vm-deployment-mgr02
   type: compute.v1.instance
   properties:
     zone: us-central1-a
